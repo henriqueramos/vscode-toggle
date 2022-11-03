@@ -3,6 +3,8 @@ Toggle any VS Code setting by your favorite keybindings.
 
 ## How To
 
+Use vsce to [publish the package](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#vsce) as a vsix file.
+
 Add below sample keybinding entry to your personal keybinding file and make changes accordingly.
 
 ```
